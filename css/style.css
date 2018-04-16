@@ -1,0 +1,63 @@
+
+li.contacto {
+	margin: ;
+	float: right;
+	list-style-type: none;
+	font-family: "Nanum Gothic"
+}
+
+li {
+	padding: 0.2em;
+	margin-left: 2em;
+	font-family: "Nanum Gothic"
+}
+
+h1 {
+	margin: 20px;
+	font-size: 50px;
+	color: #1E90FF;
+	font-family: "Oswald" 
+}
+
+h2 {
+	padding: 0.5em;
+	font-family: "Oswald"
+}
+
+h4{
+	font-family: "Oswald"
+}
+
+p {
+	font-family: "Nanum Gothic";
+	font-size: 1em;
+}
+
+aside {
+	margin-top: 4em;
+	float: left;;
+
+}
+
+article {
+	margin-top: 3em;
+	margin-bottom: 3em;
+
+}
+
+
+section {
+	margin: 1em;
+	float: right;
+	max-width: 45.6em;
+}
+
+footer {
+	margin-left: 50px;
+	margin-top: 1000px;
+}
+
+body {
+	background-color:  #e6ffff;
+}
+
